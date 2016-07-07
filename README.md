@@ -13,3 +13,5 @@ Running make produces an executable called `mapreduce`, which takes the followin
 * **-m numprocs**, where numprocs is the number of map workers. If not provided, default is 2.
 * **-r numprocs**, where numprocs is the number of reduce workers. Default is 2.
 * **-d dirname**, where dirname is the absolute or relative path to a directory containing input files. This argument is *required*.
+
+The folder texts contains sample data which can be used for testing.
