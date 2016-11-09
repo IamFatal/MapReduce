@@ -2,7 +2,7 @@
 
 Assignment for CSC209, Software Tools and Systems Programming.
 
-A simple engine to run programs written using a MapReduce model.
+An engine to run programs written using a MapReduce model.
 
 **Master:** creates the processes to perform map and reduce operations, assigns input files to the map processes, and facilitates communication between the different processes using pipes.
 
